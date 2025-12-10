@@ -1,8 +1,3 @@
-# chasemp Homebrew Tap
-
-This repository contains Homebrew formulas for tools developed by chasemp.
-
-## Available Formulas
 
 ### mdsync
 
@@ -10,7 +5,7 @@ A powerful tool for syncing between Google Docs, Confluence, and Markdown files.
 
 **Installation:**
 ```bash
-brew install chasemp/tap/mdsync
+brew install life360-oss/tap/mdsync
 ```
 
 **Features:**
