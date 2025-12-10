@@ -1,7 +1,7 @@
 class Mdsync < Formula
   desc "Sync between Google Docs, Confluence, and Markdown files"
-  homepage "https://github.com/chasemp/mdsync"
-  url "https://github.com/chasemp/mdsync/archive/refs/heads/main.zip"
+  homepage "https://github.com/life360-oss/mdsync"
+  url "https://github.com/life360-oss/mdsync/archive/refs/heads/main.zip"
   version "0.2.9"
   sha256 "1a663807be42f979b5bee267afc380db2765a9795cfb1fe28ece020e78e576c5"
   license "MIT"
